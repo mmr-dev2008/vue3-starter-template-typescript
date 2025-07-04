@@ -2,16 +2,6 @@
     <RouterView/>
 </template>
 
-<script lang="ts">
-    // Vue
-    import { defineComponent } from 'vue';
+<script setup lang="ts">
 
-    export default defineComponent({
-        name: 'App',
-
-        setup() {
-
-            return {};
-        }
-    });
 </script>
