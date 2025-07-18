@@ -1,7 +1,3 @@
-<template>
-    Home View
-</template>
+<template>Home View</template>
 
-<script setup lang="ts">
-
-</script>
+<script setup lang="ts"></script>
